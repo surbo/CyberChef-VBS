@@ -90,3 +90,5 @@ Find_/_Replace({'option':'Simple string','string':'ChrW(61)'},'=',true,false,tru
 Find_/_Replace({'option':'Simple string','string':'ChrW(62)'},'>',true,false,true,false)
 Find_/_Replace({'option':'Simple string','string':'ChrW(63)'},'?',true,false,true,false)
 Find_/_Replace({'option':'Simple string','string':'ChrW(64)'},'@',true,false,true,false)
+Find_/_Replace({'option':'Simple string','string':'ChrW(13)'},'\\r',true,false,true,false)
+Find_/_Replace({'option':'Simple string','string':' ChrW(10)'},'\\n',true,false,true,false)
