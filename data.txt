@@ -64,7 +64,7 @@ Find_/_Replace({'option':'Simple string','string':'ChrW(35)'},'#',true,false,tru
 Find_/_Replace({'option':'Simple string','string':'ChrW(36)'},'$',true,false,true,false)
 Find_/_Replace({'option':'Simple string','string':'ChrW(37)'},'%',true,false,true,false)
 Find_/_Replace({'option':'Simple string','string':'ChrW(38)'},'&',true,false,true,false)
-Find_/_Replace({'option':'Simple string','string':'ChrW(39)'},''',true,false,true,false)
+Find_/_Replace({'option':'Simple string','string':'ChrW(39)'},'\'',true,false,true,false)
 Find_/_Replace({'option':'Simple string','string':'ChrW(40)'},'(',true,false,true,false)
 Find_/_Replace({'option':'Simple string','string':'ChrW(41)'},')',true,false,true,false)
 Find_/_Replace({'option':'Simple string','string':'ChrW(42)'},'*',true,false,true,false)
